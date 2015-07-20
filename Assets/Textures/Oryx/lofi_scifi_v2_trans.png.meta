@@ -1,0 +1,476 @@
+fileFormatVersion: 2
+guid: c1d4a98fded87ed46a687fcab210a58c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: player_walk_1
+    21300002: player_walk_2
+    21300004: player_walk_3
+    21300006: player_death
+    21300008: wall_black_1
+    21300010: wall_black_2
+    21300012: wall_black_3
+    21300014: wall_black_4
+    21300016: wall_black_5
+    21300018: floor_tile_1
+    21300020: floor_tile_2
+    21300022: floor_tile_3
+    21300024: floor_tile_4
+    21300026: floor_tile_5
+    21300028: floor_tile_6
+    21300030: floor_tile_7
+    21300032: floor_tile_8
+    21300034: floor_tile_9
+    21300036: floor_tile_10
+    21300038: background_wall_gray
+    21300040: planet_red
+    21300042: enemy_minion_1_front
+    21300044: enemy_minion_2_front
+    21300046: enemy_minion_3_front
+    21300048: enemy_minion_4_front
+    21300050: enemy_minion_5_front
+    21300052: projectile_fireball
+    21300054: enemy_minion_1_death
+    21300056: enemy_minion_2_death
+    21300058: enemy_minion_3_death
+    21300060: enemy_minion_4_death
+    21300062: enemy_minion_5_death
+    21300064: life
+    21300066: pause_button
+    21300068: resume_button
+    21300070: projectile_fireball_left
+    21300072: projectile_fireball_right
+    21300074: powerup_tripple_fireball
+    21300076: coin
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 1
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: 5
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 0
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 4
+  alphaIsTransparency: 0
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: player_walk_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 856
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player_walk_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 856
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player_walk_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 856
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player_death
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 856
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wall_black_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wall_black_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 480
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wall_black_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wall_black_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 480
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wall_black_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor_tile_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 432
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor_tile_2
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 424
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor_tile_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 416
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor_tile_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 408
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor_tile_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 432
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor_tile_6
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 416
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor_tile_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 432
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor_tile_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 424
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor_tile_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floor_tile_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 408
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: background_wall_gray
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 448
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: planet_red
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 218
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy_minion_1_front
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 912
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy_minion_2_front
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 904
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy_minion_3_front
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 896
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy_minion_4_front
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 888
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy_minion_5_front
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 872
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: projectile_fireball
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 121
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy_minion_1_death
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 912
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy_minion_2_death
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 904
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy_minion_3_death
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 896
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy_minion_4_death
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 888
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy_minion_5_death
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 872
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: life
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 336
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pause_button
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: resume_button
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: projectile_fireball_left
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: projectile_fireball_right
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powerup_tripple_fireball
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 304
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coin
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 313
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

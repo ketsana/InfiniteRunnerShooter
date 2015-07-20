@@ -1,0 +1,652 @@
+fileFormatVersion: 2
+guid: 40e735a66af2f6f41bb5e69d07788014
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spritesheet_players_0
+    21300002: spritesheet_players_1
+    21300004: spritesheet_players_2
+    21300006: spritesheet_players_3
+    21300008: spritesheet_players_4
+    21300010: spritesheet_players_5
+    21300012: spritesheet_players_6
+    21300014: spritesheet_players_7
+    21300016: spritesheet_players_8
+    21300018: spritesheet_players_9
+    21300020: spritesheet_players_10
+    21300022: spritesheet_players_11
+    21300024: spritesheet_players_12
+    21300026: spritesheet_players_13
+    21300028: spritesheet_players_14
+    21300030: spritesheet_players_15
+    21300032: spritesheet_players_16
+    21300034: spritesheet_players_17
+    21300036: spritesheet_players_18
+    21300038: spritesheet_players_19
+    21300040: spritesheet_players_20
+    21300042: spritesheet_players_21
+    21300044: spritesheet_players_22
+    21300046: spritesheet_players_23
+    21300048: alienBlue_climb1
+    21300050: spritesheet_players_25
+    21300052: spritesheet_players_26
+    21300054: spritesheet_players_27
+    21300056: spritesheet_players_28
+    21300058: spritesheet_players_29
+    21300060: spritesheet_players_30
+    21300062: spritesheet_players_31
+    21300064: spritesheet_players_32
+    21300066: spritesheet_players_33
+    21300068: alienBlue_duck
+    21300070: spritesheet_players_35
+    21300072: spritesheet_players_36
+    21300074: spritesheet_players_37
+    21300076: spritesheet_players_38
+    21300078: spritesheet_players_39
+    21300080: spritesheet_players_40
+    21300082: alienBlue_climb2
+    21300084: spritesheet_players_42
+    21300086: spritesheet_players_43
+    21300088: spritesheet_players_44
+    21300090: spritesheet_players_45
+    21300092: spritesheet_players_46
+    21300094: spritesheet_players_47
+    21300096: spritesheet_players_48
+    21300098: spritesheet_players_49
+    21300100: spritesheet_players_50
+    21300102: spritesheet_players_51
+    21300104: spritesheet_players_52
+    21300106: spritesheet_players_53
+    21300108: spritesheet_players_54
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 0
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spritesheet_players_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1791
+        width: 114
+        height: 158
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1791
+        width: 116
+        height: 120
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_2
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1791
+        width: 110
+        height: 140
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_3
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1791
+        width: 114
+        height: 160
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_4
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1791
+        width: 110
+        height: 152
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_5
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1791
+        width: 108
+        height: 152
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_6
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1791
+        width: 110
+        height: 150
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1535
+        width: 110
+        height: 154
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_8
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1535
+        width: 110
+        height: 152
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_9
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1535
+        width: 114
+        height: 138
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_10
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1535
+        width: 114
+        height: 158
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_11
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1535
+        width: 114
+        height: 158
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_12
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1535
+        width: 116
+        height: 120
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_13
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1535
+        width: 110
+        height: 156
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1279
+        width: 114
+        height: 160
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_15
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1279
+        width: 110
+        height: 152
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_16
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1279
+        width: 108
+        height: 136
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_17
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1279
+        width: 110
+        height: 150
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_18
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1279
+        width: 110
+        height: 154
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_19
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1279
+        width: 108
+        height: 152
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_20
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1279
+        width: 114
+        height: 154
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1023
+        width: 114
+        height: 158
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_22
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1023
+        width: 114
+        height: 142
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_23
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1023
+        width: 116
+        height: 120
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alienBlue_climb1
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1023
+        width: 110
+        height: 152
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_25
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1023
+        width: 114
+        height: 160
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_26
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1023
+        width: 108
+        height: 152
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_27
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1023
+        width: 108
+        height: 152
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 767
+        width: 110
+        height: 150
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_29
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 767
+        width: 110
+        height: 138
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_30
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 767
+        width: 110
+        height: 136
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_31
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 767
+        width: 114
+        height: 154
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_32
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 767
+        width: 114
+        height: 158
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_33
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 767
+        width: 114
+        height: 158
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alienBlue_duck
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 767
+        width: 116
+        height: 120
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_35
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 511
+        width: 110
+        height: 156
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_36
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 511
+        width: 114
+        height: 144
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_37
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 511
+        width: 110
+        height: 136
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_38
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 511
+        width: 108
+        height: 152
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_39
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 511
+        width: 110
+        height: 150
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_40
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 511
+        width: 110
+        height: 154
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alienBlue_climb2
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 511
+        width: 110
+        height: 152
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_42
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 255
+        width: 114
+        height: 154
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_43
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 255
+        width: 114
+        height: 142
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_44
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 255
+        width: 114
+        height: 158
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_45
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 255
+        width: 116
+        height: 120
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_46
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 255
+        width: 110
+        height: 156
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_47
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 255
+        width: 114
+        height: 160
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_48
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 255
+        width: 110
+        height: 156
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_49
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 108
+        height: 151
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_50
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 110
+        height: 133
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_51
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 110
+        height: 153
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_52
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 0
+        width: 110
+        height: 151
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_53
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 0
+        width: 114
+        height: 153
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_players_54
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 0
+        width: 114
+        height: 157
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
